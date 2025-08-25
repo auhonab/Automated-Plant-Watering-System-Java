@@ -153,10 +153,11 @@ Download [Firmata4J v2.3.9 JAR](https://www.yorku.ca/professor/drsmith/2025/02/2
   - Wet soil: ~4V
 - Graph of sensor values over time
 
-## Resources
+## References
 - [Project Example](https://www.yorku.ca/professor/drsmith/2024/04/01/main-project-example-for-eecs-1021/)
 - [Firmata4j Documentation](https://github.com/kurbatov/firmata4j)
 - [State Machine Guide](https://en.wikipedia.org/wiki/Finite-state_machine)
+- James Andrew Smith, Associate Professor, Department of Electrical Engineering and Computer Science, Lassonde School of Engineering.
 
 ## License
 Copyright © 2025 Auhona Basu - For educational use at York University only. Not for distribution.
